@@ -1207,32 +1207,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":321,
-         "image":"..\/..\/..\/Downloads\/LOJA B.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"LOJA B",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":60,
-         "firstgid":577,
-         "image":"..\/..\/..\/Downloads\/tileset_ver_3__free___by_magiscarf_dbf3bkq.png",
-         "imageheight":3360,
-         "imagewidth":1920,
-         "margin":0,
-         "name":"tileset_ver_3__free___by_magiscarf_dbf3bkq",
-         "spacing":0,
-         "tilecount":6300,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

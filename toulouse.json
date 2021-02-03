@@ -149,7 +149,7 @@
                  "id":48,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -158,7 +158,7 @@
                  "id":49,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -167,7 +167,7 @@
                  "id":96,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":false
                         }]
@@ -176,7 +176,7 @@
                  "id":214,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -199,7 +199,7 @@
                  "id":96,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]

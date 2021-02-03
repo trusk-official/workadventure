@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -126,7 +133,7 @@
                  "id":37,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -173,6 +180,24 @@
                         }]
                 }, 
                 {
+                 "id":196,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":213,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":214,
                  "properties":[
                         {
@@ -204,19 +229,6 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
-        }, 
-        {
-         "columns":14,
-         "firstgid":577,
-         "image":"MegaPixelArt32x32pxIcons_SpriteSheet.png",
-         "imageheight":1152,
-         "imagewidth":448,
-         "margin":0,
-         "name":"MegaPixelArt32x32pxIcons_SpriteSheet",
-         "spacing":0,
-         "tilecount":504,
-         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
